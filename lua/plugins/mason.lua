@@ -11,6 +11,10 @@ return {
     opts = {
       ensure_installed = {
         "lua_ls",
+        "astro",
+        "tsserver",
+        "html",
+        "cssls",
         -- add more arguments for adding more language servers
       },
     },

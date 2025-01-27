@@ -17,6 +17,7 @@ return {
       "tsx",
       "html",
       "dockerfile",
+      "astro",
       -- add more arguments for adding more treesitter parsers
     },
   },
